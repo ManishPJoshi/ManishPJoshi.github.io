@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Primary use of Data science in Wellbore construction
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+The most capital intensive activity of the Oil and gas industry is "Wellbore construction", informally known as "drilling". 
+A typical Oil well takes an investment of 10 to 20 Million US Dollars.
+When analysed a large percentage of this investment is lost in Non Performance time (NPT) which is typically known as downtime. 
+Well bore construction takes place is isolated areas and challenges to progress are met with solutions that are thought of locally by the Drilling crew that is facing those challenges. Many times solutions to complex drilling problems are a hit-and-miss. These solutions which are finally ariived at after expensive and sometimes time consuming efforts are not properly captured and documented.
+Thus challenges are solved with a new approach everytime even when the problem has been encountred before.
+Down time can be significantly reduced by a margin of 5 % to 25% with the help of data science.
